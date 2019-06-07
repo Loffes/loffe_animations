@@ -1,5 +1,6 @@
 Config = {}
 
+-- https://docs.fivem.net/game-references/controls/
 Config.FavoriteButtons = {
 	{Button = 'M', Text = '~INPUT_INTERACTION_MENU~'},
 	{Button = 'Z', Text = '~INPUT_MULTIPLAYER_INFO~'},
