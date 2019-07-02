@@ -7,3 +7,5 @@ Väljer att releasa då jag blev bannad från RSRP efter att ha skickat ut scree
 - [2](https://cdn.discordapp.com/attachments/406964608155254798/563619639465082880/3b379512b7302774dfb0f50eb793ac96.png)
 
 Kör SQL filen o lägg in scriptet så funkar det nog, annars skriv till mig på discord Loffe#1111
+
+För att öppna menyn, lägg in denna koden i ett command / meny: ```TriggerEvent('esx_animations:openMenu')```
